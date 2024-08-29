@@ -7,7 +7,14 @@
         <title>PWL 2024</title>
     </head>
     <body>
-        <h2>Pemrograman Web Lanjut 2024</h2>
-        <h3>Semangat Belajar Laravel 10</h3>
+        <h1>Pemrograman Web Lanjut 2024</h1>
+        <h2>BIODATA DIRI</h2>
+        <br><br>
+        <p>Nama             : Suhatta</p>
+        <p>NIM              : 2241760060</p>
+        <p>Kelas            : SIB 3A</p>
+        <p>Jurusan          : Teknologi Informasi</p>
+        <p>Tempat, Tgl Lahir: Blitar, 22 September 2003</p>
+        <p>Alamat           : Kanigor, Blitar</p>
     </body>
 </html>
