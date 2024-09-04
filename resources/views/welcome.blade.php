@@ -15,6 +15,6 @@
         <p>Kelas            : SIB 3A</p>
         <p>Jurusan          : Teknologi Informasi</p>
         <p>Tempat, Tgl Lahir: Blitar, 22 September 2003</p>
-        <p>Alamat           : Kanigor, Blitar</p>
+        <p>Alamat           : Kanigoro, Blitar</p>
     </body>
 </html>
